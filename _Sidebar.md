@@ -1,9 +1,14 @@
-### 🌸 Flower Banner
+### 📖 Project Documentation
 
-![Flower Banner](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/images/flower_banner.jpg)
+* [Home Page](Home)
+* [Getting Started](Getting-Started-Guide)
+* [API Reference](API-Reference)
+* [Configuration Settings](Configuration-Settings)
 
 ---
 
-* [Home](/)
-* [Installation](Installation)
-* ... your other links
+### 🔗 External Resources
+
+* [Main Repository](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+* [Report a Bug](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/issues/new/choose)
+* [YouTube Channel](https://www.youtube.com/your-channel)
