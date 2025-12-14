@@ -1,5 +1,6 @@
 Title: \"Generative AI vs AI agents vs Agentic AI - YouTube\" URL:
 \"https://www.youtube.com/watch?v=O2gerCxEXvc\"
+[![Watch the Tutorial](https://img.youtube.com/vi/O2gerCxEXvc/0.jpg)](https://www.youtube.com/watch?v=O2gerCxEXvc "Video Tutorial")
 
 Based on the provided transcript of the video \"Generative AI vs AI
 agents vs Agentic AI - YouTube\", here is a summary in bullet points.
