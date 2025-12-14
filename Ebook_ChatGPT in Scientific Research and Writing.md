@@ -1,3 +1,5 @@
+![61UT2C8KYLL _SL1254_](https://github.com/user-attachments/assets/269182a6-7bd7-457d-a697-0a84d3afee69)
+
 **Topic 1: Extracting Key Information from Research Papers (Pages
 7-14)**
 
