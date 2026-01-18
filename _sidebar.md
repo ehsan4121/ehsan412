@@ -6,6 +6,7 @@
 - [FAQ](faq.md)
 - [Changelog](changelog.md)
 <!-- You can also have nested sections -->
+
 ## Advanced
 - [Deployment](deployment.md)
 - [Troubleshooting](troubleshooting.md)
@@ -13,4 +14,5 @@
 
 ## External Links
 - [GitHub Repository](https://github.com/YOUR_USERNAME/YOUR_REPO)
+
 - [Report Issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues)
